@@ -5,3 +5,5 @@
 /union.sql
 .vscode/create_table.sql
 .vscode/create table job applied
+.vscode/count.sql
+.vscode/settings.json
